@@ -1,0 +1,115 @@
+BODY {
+ color:black;
+ background:white;
+ background-repeat:repeat-y;
+ font-family:sans-serif, arial;
+ font-size:10pt;
+}
+
+A {
+ font-family:sans-serif, arial;
+ font-size:10pt;
+ text-decoration:none;
+ color:gray;
+}
+
+A.tub1 {
+ color:green;
+}
+
+A.tub2 {
+ color:red;
+}
+
+A.tub3 {
+ color:blue;
+}
+
+A.pendel {
+ color:navy;
+}
+
+A.tvb {
+ color:gold;
+}
+
+A.mallis {
+ color:silver;
+}
+
+A.mirror {
+ color:blue;
+}
+
+H1 {
+ font-size:20pt;
+ font-family:sans-serif, arial;
+ color:black;
+ text-align: center;
+}
+
+H2 {
+ font-size:16pt;
+ font-family:sans-serif, arial;
+ color:black; 
+ text-align: center;
+}
+
+H3 {
+ font-size:10pt;
+ font-family:sans-serif, arial;
+}
+
+P {
+ font-size:10pt;
+ font-family:sans-serif, arial;
+ color:gray;
+}
+
+P.mirror {
+ color:black;
+ background-color:red;
+}
+
+TABLE {
+ font size:10pt;
+ font-family:sans-serif, arial;
+ color:black;
+ margin:0px;
+ border-style:none;
+ clear:both;
+}
+
+TH {
+ font-size:10pt;
+ font-family:sans-serif, arial;
+ text-decoration:bold;
+ color:black; 
+ border:none;
+ text-align:left;
+ vertical-align:top;
+}
+
+TD {
+ font-size:10pt;
+ font-family:sans-serif, arial;
+ color:black;
+ border:none;
+ text-align:left;
+ vertical-align:top;
+}
+
+.header
+{ 
+ text-align: center; 
+}
+
+.station
+{ 
+ text-align: center;
+ margin-bottom:12pt;
+}
+
+HR {
+ color:black;
+}
